@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "Мой план расходов",
+  "short_name": "Мои расходы",
+  "description": "План оплат, деньги на жизнь и итоги. Записи хранятся на вашем устройстве.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EBDD",
+  "theme_color": "#4E284C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
